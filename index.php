@@ -17,7 +17,7 @@
 
 <?php
    $name = $_GET['person'];
-   echo $name. "";
+   echo $name. " is a pretty girl";
 ?>
 
 
