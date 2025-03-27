@@ -16,7 +16,9 @@
 
 
 <?php
+//in the datbase  its lookong for a name to put in front of "is a pretty girl."
    $name = $_GET['person'];
+   //
    echo $name. " is a pretty girl";
 ?>
 
