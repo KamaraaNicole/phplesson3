@@ -9,7 +9,9 @@
 
   <body>
   <body> 
-    <?php 
+   
+   <?php 
+
     //Logical Operators
    $x = 20;
    $y = 20;
