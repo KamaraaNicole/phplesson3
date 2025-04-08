@@ -1,4 +1,9 @@
 <!doctype html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -18,7 +23,7 @@
             echo "it is Monday!";
             break;
             case 2;
-            echo "it is Tuesday!";
+            echo "<p>it is Tuesday!";
             break; 
             case 3: 
                 echo "it is Wednesday!";
@@ -33,6 +38,8 @@
                 case 0:
                 break;
                 echo  "it is Sunday!";
+    
+   
     }
 
     ?></body>

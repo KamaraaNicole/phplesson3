@@ -1,0 +1,27 @@
+
+body {
+    background-color: plum;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #007bff; /* Customize the navbar color */
+}
+
+.navbar-brand, .nav-link {
+    color: powderblue !important;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #ffc107 !important; /* Hover color */
+}
+
+footer {
+    background-color: purple;
+    color: purple;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
